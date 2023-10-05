@@ -21,4 +21,5 @@ The CNN model used in this project consists of three convolution layers, followe
 Obs.: On the 'pneumonia' and 'normal' folders are the data of test set. If you want to see all archives go to the link below.
 The project can also be found at: [link to the Kaggle dataset](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets)
 
-![image](https://github.com/guilhermegobbo/covid-xray/assets/136920721/2d29eb0b-5179-4d8c-9419-866f6175c81e)
+![image](https://github.com/guilhermegobbo/COVID19-XRAY-/assets/136920721/766aa45b-a6e9-437b-8b6d-4fda0977e9ae)
+
